@@ -1,3 +1,5 @@
 # gis
-tugas 2 dan 3
-#tugas 1 ada di repositori lain
+tugas 2
+# Eko Wijayanto
+# L200130133
+# kelas B
